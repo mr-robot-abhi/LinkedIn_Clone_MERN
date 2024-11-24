@@ -7,7 +7,6 @@ About This Course:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB Integration
--   💳 Stripe Payment Setup
 -   🔐 Authentication System with JWT
 -   ✉️ Welcome Emails
 -   🎨 Design with Tailwind & DaisyUI
